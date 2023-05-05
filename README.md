@@ -120,5 +120,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-umer-khan-32989b210/"><img src="https://img.shields.io/badge/-Muhammad%20Umer%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:umerkhan23@gmail.com"><img src="https://img.shields.io/badge/-umerkhanmcs23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/umerkhan_23"><img src="https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40umerkhan_23"/></a>
 <a href="https://instagram.com/umerkhan_23?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/-@umerkhan_23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/umerkhanarf?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@umerkhanarf-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
