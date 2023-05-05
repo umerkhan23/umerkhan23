@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerkhan23&label=Profile%20views&color=red&style=flat" alt="umerkhan23" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub]([github.com/umerkhan23](https://github.com/umerkhan23))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/umerkhan23)
 
 - 💬 Ask me about **React, Nodejs, Express.js, MongoDB MERN Stack Development, Javascript**
 
