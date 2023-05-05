@@ -101,7 +101,9 @@
 <br>
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=umerkhan23&show_icons=true&theme=tokyonight&line_height=25" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=umerkhan23&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=umerkhan23&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400> <br />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=umerkhan23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width = 400>
+<img src = "https://github-contributor-stats.vercel.app/api?username=umerkhan23&limit=5&theme=dark&combine_all_yearly_contributions=true" width = 400>
 </p>
 </details>
 
